@@ -1,0 +1,104 @@
+[
+  {
+    "file": "public/art/sakura-frame.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/art/sakura-frame.webp",
+    "bytes": 206274,
+    "sha256": "47d388035175b4479864e70bb83a20bee44b707992d9b0c9789e6861391c9ab2"
+  },
+  {
+    "file": "public/art/porcelain-waves.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/art/porcelain-waves.webp",
+    "bytes": 76984,
+    "sha256": "e81f119da81a04384bfadabb08ae3a6455e1a2682b1f241b3aa651610ed6afcf"
+  },
+  {
+    "file": "public/art/mount-fuji.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/art/mount-fuji.webp",
+    "bytes": 214426,
+    "sha256": "8568c8f93bf2d64a883169aa8315481234568ab6635cb14fc44a8fd680ea9e67"
+  },
+  {
+    "file": "public/photos/f40-01.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/photos/f40-01.webp",
+    "bytes": 99262,
+    "sha256": "f922b79ade8a90a3ce1212db32ee0137f04b2abff5dfece3ae812c12edb0ffd9"
+  },
+  {
+    "file": "public/photos/f40-02.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/photos/f40-02.webp",
+    "bytes": 205000,
+    "sha256": "d517c3cf88e6570bad6bbdaff00a263f7ec3f34462d63ed190b30f6547583ae1"
+  },
+  {
+    "file": "public/photos/f40-03.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/photos/f40-03.webp",
+    "bytes": 145652,
+    "sha256": "f3ac4a6809d710d3cd6069a063df0e277801d06ed58216b9e6976aa085199820"
+  },
+  {
+    "file": "public/photos/f40-04.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/photos/f40-04.webp",
+    "bytes": 118960,
+    "sha256": "66c514c2292822c6345cae3a3405fc0db93efade3c4bccd23804401c23b8a6d0"
+  },
+  {
+    "file": "public/photos/f40-05.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/photos/f40-05.webp",
+    "bytes": 54048,
+    "sha256": "fa4f429bced2646ba4cb83ace8b1e994ea448b3e9a799cb1ba36609cdf6ae215"
+  },
+  {
+    "file": "public/photos/f40-06.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/photos/f40-06.webp",
+    "bytes": 197978,
+    "sha256": "b04efe6ce608f4a80f50eead954d5082f56f6e3f0222b09cf6de9a01a9013936"
+  },
+  {
+    "file": "public/photos/f40-07.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/photos/f40-07.webp",
+    "bytes": 162236,
+    "sha256": "43088b9fcd6277847f10ff9cb32c78ed02c89cf71f9ad6a0cd45bb3e1bbef924"
+  },
+  {
+    "file": "public/photos/f40-08.webp",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/photos/f40-08.webp",
+    "bytes": 189646,
+    "sha256": "feb650f24c86737407eb81315aa34713e37cac432a6e8551b96160191fc2cddb"
+  },
+  {
+    "file": "public/fonts/league-gothic.woff",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/fonts/league-gothic.woff",
+    "bytes": 19548,
+    "sha256": "9e7726e2d42ed412e308d089ecffe3fd211fb56b4b273a3caeaa2a175fba744f"
+  },
+  {
+    "file": "public/fonts/YujiBoku-Ferrari.ttf",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/fonts/YujiBoku-Ferrari.ttf",
+    "bytes": 3364,
+    "sha256": "267743f0dba428a4cd1190cf2e7091a8cd00b5a921478abca2eb392b9c85cd9c"
+  },
+  {
+    "file": "public/fonts/YujiBoku-Hayate.ttf",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/fonts/YujiBoku-Hayate.ttf",
+    "bytes": 3216,
+    "sha256": "7a7c19281cf3335bac65f892f9a5e1b806f7c8b7c80288e91c21448cf4fd6f0a"
+  },
+  {
+    "file": "public/fonts/Anton-Regular.ttf",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/fonts/Anton-Regular.ttf",
+    "bytes": 130324,
+    "sha256": "fd9301f2837c99df2be07cc7f0be66e9470f5354d8fcf1606027c67fcd637a53"
+  },
+  {
+    "file": "public/fonts/Caveat-SemiBold.ttf",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/fonts/Caveat-SemiBold.ttf",
+    "bytes": 251816,
+    "sha256": "e5be0a7ef2eb97414937cb70d079c8c9fb2e472cf74eab5b8fe9dfa2f6fb2704"
+  },
+  {
+    "file": "public/fonts/DMSans-Medium.ttf",
+    "url": "https://media.prettysites.io/products/liberty-walk-f40/v1/fonts/DMSans-Medium.ttf",
+    "bytes": 48308,
+    "sha256": "376427b5322148d8de1e03f263bcca4935a2d60ba71d9f94f4947ab664c711ae"
+  }
+]
